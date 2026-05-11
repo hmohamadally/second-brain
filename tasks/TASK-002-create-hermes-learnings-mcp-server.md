@@ -1,7 +1,7 @@
 ---
 type: task
 id: TASK-002
-status: todo
+status: done
 priority: high
 project: hermes-learnings-mcp
 assignee: copilot
@@ -34,10 +34,10 @@ Le système AI Engineering Command Center s’appuie sur Hermes pour l’orchest
 
 ## Acceptance Criteria
 
-- [ ] Le dépôt `~/Projects/hermes-learnings-mcp/` contient un projet Bun/TypeScript exécutable qui démarre un serveur MCP sur stdio avec `@modelcontextprotocol/sdk`
-- [ ] Les 6 outils MCP (`log_learning`, `search_learnings`, `list_learnings`, `stats_learnings`, `export_learnings`, `prune_learnings`) sont implémentés avec schémas d’entrée/sortie cohérents et comportements documentés
-- [ ] Le store JSONL supporte l’append, la recherche filtrée, le listing paginé, les statistiques agrégées, l’export lisible et le prune selon des critères explicites, avec validations automatisées
-- [ ] Un README explique le format JSONL, la configuration du chemin de stockage, l’exécution locale avec Bun, et l’intégration du serveur dans une config MCP Hermes
+- [x] Le dépôt `~/Projects/hermes-learnings-mcp/` contient un projet Bun/TypeScript exécutable qui démarre un serveur MCP sur stdio avec `@modelcontextprotocol/sdk`
+- [x] Les 6 outils MCP (`log_learning`, `search_learnings`, `list_learnings`, `stats_learnings`, `export_learnings`, `prune_learnings`) sont implémentés avec schémas d’entrée/sortie cohérents et comportements documentés
+- [x] Le store JSONL supporte l’append, la recherche filtrée, le listing paginé, les statistiques agrégées, l’export lisible et le prune selon des critères explicites, avec validations automatisées
+- [x] Un README explique le format JSONL, la configuration du chemin de stockage, l’exécution locale avec Bun, et l’intégration du serveur dans une config MCP Hermes
 
 ## Files Impacted
 
@@ -83,6 +83,6 @@ bun run start
 
 ## Post-Completion
 
-- [ ] Mettre à jour mémoire vault
-- [ ] Créer retrospective si significatif
-- [ ] Extraire patterns réutilisables
+- [x] Mettre à jour mémoire vault
+- [x] Créer retrospective si significatif
+- [x] Extraire patterns réutilisables
