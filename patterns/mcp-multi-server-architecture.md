@@ -61,3 +61,11 @@ Chaque serveur est un processus indépendant avec un timeout configurable. Si un
 ## Timeline
 
 - 2026-05-10: Pattern extrait du setup AI Engineering Command Center (4 serveurs, 93 tools)
+
+
+## Related
+
+- [[adr/ADR-001-architecture-ai-command-center]] — ADR qui valide ce pattern
+- [[tasks/TASK-001-setup-ai-command-center]] — Task qui l'a découvert
+- [[retrospectives/2026-05-10-setup-initial]] — Retro qui l'a extrait
+- [[projects/ai-command-center]] — Projet parent

@@ -70,3 +70,10 @@ chmod +x ~/.hermes/scripts/vault-gbrain-sync.sh
 - `--no-embed` car les embeddings nécessitent une clé OpenAI
 - Les logs s'accumulent dans `~/.hermes/logs/vault-sync.log` — penser à rotate
 - Le script est idempotent — safe à relancer manuellement
+
+
+## Related
+
+- [[workflows/ai-engineering-setup]] — Workflow qui l'utilise (étape 8)
+- [[tasks/TASK-001-setup-ai-command-center]] — Task qui l'a produit
+- [[retrospectives/2026-05-10-setup-initial]] — Retro qui l'a documenté

@@ -55,3 +55,9 @@ Fichier `TASK-xxx-slug.md` dans le vault avec frontmatter, objectif, étapes, cr
 ## Timeline
 
 - 2026-05-10: Prompt créé à partir du skill /task-gen
+
+
+## Related
+
+- [[workflows/feature-development]] — Workflow qui utilise ce prompt (étape 4)
+- [[retrospectives/2026-05-10-setup-initial]] — Retro qui a validé son efficacité

@@ -78,3 +78,9 @@ Investigation steps so far:
 
 Fix it. Show me the minimal change needed.
 ```
+
+
+## Related
+
+- [[workflows/feature-development]] — Workflow qui utilise ce prompt (étape 5)
+- [[tasks/TASK-001-setup-ai-command-center]] — Premier usage réel

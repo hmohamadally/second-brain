@@ -111,3 +111,10 @@ Premier setup d'un environnement AI Engineering Command Center sur une nouvelle 
 ## Timeline
 
 - 2026-05-10: Workflow documenté à partir du setup réel
+
+
+## Related
+
+- [[projects/ai-command-center]] — Projet qui utilise ce workflow
+- [[snippets/vault-auto-sync]] — Script utilisé à l'étape 8
+- [[adr/ADR-001-architecture-ai-command-center]] — Architecture qui le motive
